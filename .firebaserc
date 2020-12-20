@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "prazdnik-kirov": {
+      "hosting": {
+        "prazdnik": [
+          "prazdnik-kirov"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "prazdnik-kirov"
+  }
+}
